@@ -1,0 +1,1154 @@
+[1;31m
+Start test 1[0m
+Block:
+Created by miner # 29
+miner29gets 100 VC 
+Id: 1
+Timestamp: 1623773944490
+Magic number: 1
+Hash of the previous block:
+0
+Hash of the block:
+Ac555d72a01a4e6a19f44169fc61dc516d7fd267b9d024416b7e79477528f8cc1
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+$Block was generating for 10 seconds
+N was increased to 1
+
+Block:
+Created by miner # 30
+miner30gets 100 VC 
+Id: 2
+Timestamp: 1623773944502
+Magic number: 9
+Hash of the previous block:
+Ac555d72a01a4e6a19f44169fc61dc516d7fd267b9d024416b7e79477528f8cc1
+Hash of the block:
+A0ee78e94c62b6a0e9b8f4e42a781de85bf0ed4a1506ec0c83792e338613ed09d
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+#Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by miner # 31
+miner31gets 100 VC 
+Id: 3
+Timestamp: 1623773944502
+Magic number: 611
+Hash of the previous block:
+A0ee78e94c62b6a0e9b8f4e42a781de85bf0ed4a1506ec0c83792e338613ed09d
+Hash of the block:
+A003c0c3a3d1b4c59876aaf4b78fda1c5b80fb48b8170413c5329eb80eb943661
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+$Block was generating for 13 seconds
+N was increased to 3
+
+Block:
+Created by miner # 32
+miner32gets 100 VC 
+Id: 4
+Timestamp: 1623773944518
+Magic number: 1962
+Hash of the previous block:
+A003c0c3a3d1b4c59876aaf4b78fda1c5b80fb48b8170413c5329eb80eb943661
+Hash of the block:
+A0001323173bedcdc0591bb5a16a83d96f84cefad87a4ffa3b7447fff808353e8
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+$Block was generating for 13 seconds
+N was increased to 4
+
+Block:
+Created by miner # 33
+miner33gets 100 VC 
+Id: 5
+Timestamp: 1623773944531
+Magic number: 219581
+Hash of the previous block:
+A0001323173bedcdc0591bb5a16a83d96f84cefad87a4ffa3b7447fff808353e8
+Hash of the block:
+A00008396321c8229606dcdde95e7f7dd89be70c3c21951f4da44b57fdb2e8ae4
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+%Block was generating for 301 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 29
+miner29gets 100 VC 
+Id: 6
+Timestamp: 1623773944832
+Magic number: 5849
+Hash of the previous block:
+A00008396321c8229606dcdde95e7f7dd89be70c3c21951f4da44b57fdb2e8ae4
+Hash of the block:
+A00019a9c95f7f1446f19eaa6e54a725832f3f7eadd1602f144c86085e8b90e7c
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+#Block was generating for 6 seconds
+N was increased to 4
+
+Block:
+Created by miner # 30
+miner30gets 100 VC 
+Id: 7
+Timestamp: 1623773944839
+Magic number: 4505
+Hash of the previous block:
+A00019a9c95f7f1446f19eaa6e54a725832f3f7eadd1602f144c86085e8b90e7c
+Hash of the block:
+A00005c8482988c58be5b63ae5c5cb9d84ae8496d8ac8c922516e98dfd788ab18
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+#Block was generating for 4 seconds
+N was increased to 5
+
+Block:
+Created by miner # 31
+miner31gets 100 VC 
+Id: 8
+Timestamp: 1623773944843
+Magic number: 3241944
+Hash of the previous block:
+A00005c8482988c58be5b63ae5c5cb9d84ae8496d8ac8c922516e98dfd788ab18
+Hash of the block:
+A000008f5390f32a1f9aa106e2e4aeaefe5edb4dbd07f94dde371ef7e59d7c4c4
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+&Block was generating for 2805 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 32
+miner32gets 100 VC 
+Id: 9
+Timestamp: 1623773947648
+Magic number: 20532
+Hash of the previous block:
+A000008f5390f32a1f9aa106e2e4aeaefe5edb4dbd07f94dde371ef7e59d7c4c4
+Hash of the block:
+A0000465ef6e8d6c705b86d9fbdf07846c2b6e5deb54918a4bf4a966bb22cf572
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+$Block was generating for 18 seconds
+N was increased to 5
+
+Block:
+Created by miner # 33
+miner33gets 100 VC 
+Id: 10
+Timestamp: 1623773947666
+Magic number: 1143859
+Hash of the previous block:
+A0000465ef6e8d6c705b86d9fbdf07846c2b6e5deb54918a4bf4a966bb22cf572
+Hash of the block:
+A000002a064aa509447ac82560826b12b616994e8483861ccd665c326e7290ed1
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+%Block was generating for 965 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 29
+miner29gets 100 VC 
+Id: 11
+Timestamp: 1623773948632
+Magic number: 34743
+Hash of the previous block:
+A000002a064aa509447ac82560826b12b616994e8483861ccd665c326e7290ed1
+Hash of the block:
+A0000d19af517804dd07cca211b2bc645c1a050d11bf220a6c8a136865a1d0946
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+$Block was generating for 29 seconds
+N stays the same
+
+Block:
+Created by miner # 30
+miner30gets 100 VC 
+Id: 12
+Timestamp: 1623773948661
+Magic number: 56306
+Hash of the previous block:
+A0000d19af517804dd07cca211b2bc645c1a050d11bf220a6c8a136865a1d0946
+Hash of the block:
+A0000970a2a27eadeb65d6e2d8a286734e1ca75692fcae7fefac3a56d8ce5edae
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-4
+	Thread-4
+gets 100 VC
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+	Thread-4
+$Block was generating for 47 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 31
+miner31gets 100 VC 
+Id: 13
+Timestamp: 1623773948709
+Magic number: 191
+Hash of the previous block:
+A0000970a2a27eadeb65d6e2d8a286734e1ca75692fcae7fefac3a56d8ce5edae
+Hash of the block:
+A000af6fa102bd3eb0d699a119ac9719023486ab4e2e876d99d3739cf0ac1aadc
+Block data: 
+#Block was generating for 0 seconds
+N was increased to 4
+
+Block:
+Created by miner # 32
+miner32gets 100 VC 
+Id: 14
+Timestamp: 1623773948709
+Magic number: 2526
+Hash of the previous block:
+A000af6fa102bd3eb0d699a119ac9719023486ab4e2e876d99d3739cf0ac1aadc
+Hash of the block:
+A0000b9aa075ff8ec4cd44976f02b830430418fce8cbfdf731813dd3b9e34954e
+Block data: 
+#Block was generating for 2 seconds
+N was increased to 5
+
+Block:
+Created by miner # 33
+miner33gets 100 VC 
+Id: 15
+Timestamp: 1623773948711
+Magic number: 2009799
+Hash of the previous block:
+A0000b9aa075ff8ec4cd44976f02b830430418fce8cbfdf731813dd3b9e34954e
+Hash of the block:
+A000005e638ba521b8288cd9f23a1d3bf23021818ead8c1c2c3fdbe75f2ebe910
+Block data: 
+	Thread-3
+	Thread-3
+gets 100 VC
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+	Thread-3
+&Block was generating for 1712 seconds
+N was decreased by 1
+
+
+[1;31m
+Start test 2[0m
+Block:
+Created by miner # 38
+miner38gets 100 VC 
+Id: 1
+Timestamp: 1623773950579
+Magic number: 1
+Hash of the previous block:
+0
+Hash of the block:
+A74642df2ae5efb454e16918d8afce751714883aebaf650e25857ed1874b6d0d7
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+#Block was generating for 1 seconds
+N was increased to 1
+
+Block:
+Created by miner # 39
+miner39gets 100 VC 
+Id: 2
+Timestamp: 1623773950580
+Magic number: 9
+Hash of the previous block:
+A74642df2ae5efb454e16918d8afce751714883aebaf650e25857ed1874b6d0d7
+Hash of the block:
+A02a1fd9b09f012da8a1b477fda12961cd0de3972cda93a0af6343e7783aa0e9f
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+#Block was generating for 0 seconds
+N was increased to 2
+
+Block:
+Created by miner # 40
+miner40gets 100 VC 
+Id: 3
+Timestamp: 1623773950580
+Magic number: 77
+Hash of the previous block:
+A02a1fd9b09f012da8a1b477fda12961cd0de3972cda93a0af6343e7783aa0e9f
+Hash of the block:
+A00893370e46922c618a189dbfe9280a183663cc19c0c6b6be9eae4c648d6bc67
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+#Block was generating for 1 seconds
+N was increased to 3
+
+Block:
+Created by miner # 41
+miner41gets 100 VC 
+Id: 4
+Timestamp: 1623773950581
+Magic number: 2844
+Hash of the previous block:
+A00893370e46922c618a189dbfe9280a183663cc19c0c6b6be9eae4c648d6bc67
+Hash of the block:
+A00094b5ae2ae5b25a80d5f37934b00c103fe941b5ee700fd87e954d3df47f35e
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+#Block was generating for 4 seconds
+N was increased to 4
+
+Block:
+Created by miner # 42
+miner42gets 100 VC 
+Id: 5
+Timestamp: 1623773950586
+Magic number: 82715
+Hash of the previous block:
+A00094b5ae2ae5b25a80d5f37934b00c103fe941b5ee700fd87e954d3df47f35e
+Hash of the block:
+A0000a6aaf6595740826e38cfd3ff1855b787a4d5dc8f1095d27c9b95f4e6b96c
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+$Block was generating for 89 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 38
+miner38gets 100 VC 
+Id: 6
+Timestamp: 1623773950675
+Magic number: 5645
+Hash of the previous block:
+A0000a6aaf6595740826e38cfd3ff1855b787a4d5dc8f1095d27c9b95f4e6b96c
+Hash of the block:
+A000e7a5f7133a89b4a85959e848116ef8e28e252c0f809145ec81583daedd0c7
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+#Block was generating for 6 seconds
+N was increased to 4
+
+Block:
+Created by miner # 39
+miner39gets 100 VC 
+Id: 7
+Timestamp: 1623773950681
+Magic number: 78257
+Hash of the previous block:
+A000e7a5f7133a89b4a85959e848116ef8e28e252c0f809145ec81583daedd0c7
+Hash of the block:
+A0000ecd98dc1a2bbdbb97b6f861abe7227ddcfb46fe1b4d7dbfedea3160a09ec
+Block data: 
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+$Block was generating for 73 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 40
+miner40gets 100 VC 
+Id: 8
+Timestamp: 1623773950754
+Magic number: 3315
+Hash of the previous block:
+A0000ecd98dc1a2bbdbb97b6f861abe7227ddcfb46fe1b4d7dbfedea3160a09ec
+Hash of the block:
+A0004349eb041e79103267f08b396040abb7a8701da05e1479260da41225b53eb
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+#Block was generating for 3 seconds
+N was increased to 4
+
+Block:
+Created by miner # 41
+miner41gets 100 VC 
+Id: 9
+Timestamp: 1623773950757
+Magic number: 61651
+Hash of the previous block:
+A0004349eb041e79103267f08b396040abb7a8701da05e1479260da41225b53eb
+Hash of the block:
+A00009477c0b2ae5906ee1bcfcba1f450e6b54316ad64b13b3065926701574c20
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+$Block was generating for 55 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 42
+miner42gets 100 VC 
+Id: 10
+Timestamp: 1623773950812
+Magic number: 7434
+Hash of the previous block:
+A00009477c0b2ae5906ee1bcfcba1f450e6b54316ad64b13b3065926701574c20
+Hash of the block:
+A00076c0ac3810460df66dec3e62d47bfe2d48e2d5c5f96ccf9636314579a9054
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+#Block was generating for 6 seconds
+N was increased to 4
+
+Block:
+Created by miner # 38
+miner38gets 100 VC 
+Id: 11
+Timestamp: 1623773950818
+Magic number: 2228
+Hash of the previous block:
+A00076c0ac3810460df66dec3e62d47bfe2d48e2d5c5f96ccf9636314579a9054
+Hash of the block:
+A0000d0e9b1741fd0a47f17d744ddfa97f5a39c7651fcdaa72718c8e32fff91eb
+Block data: 
+#Block was generating for 2 seconds
+N was increased to 5
+
+Block:
+Created by miner # 39
+miner39gets 100 VC 
+Id: 12
+Timestamp: 1623773950820
+Magic number: 3270563
+Hash of the previous block:
+A0000d0e9b1741fd0a47f17d744ddfa97f5a39c7651fcdaa72718c8e32fff91eb
+Hash of the block:
+A000008369eeaa9ea5e3df8d7accab2fede752242c776dcba59e1f6d1f7e95888
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+&Block was generating for 2802 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 40
+miner40gets 100 VC 
+Id: 13
+Timestamp: 1623773953622
+Magic number: 125216
+Hash of the previous block:
+A000008369eeaa9ea5e3df8d7accab2fede752242c776dcba59e1f6d1f7e95888
+Hash of the block:
+A0000bc3b7780ca418f21818445be0bb3b215eeb6650773b37e96182407017d35
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+%Block was generating for 107 seconds
+N was decreased by 1
+
+Block:
+Created by miner # 41
+miner41gets 100 VC 
+Id: 14
+Timestamp: 1623773953729
+Magic number: 6112
+Hash of the previous block:
+A0000bc3b7780ca418f21818445be0bb3b215eeb6650773b37e96182407017d35
+Hash of the block:
+A0000144f14be7a33f7a16022f9c8cae8b3dda9151d1e37a3ffbfe38c05b6e6ae
+Block data: 
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+#Block was generating for 6 seconds
+N was increased to 4
+
+Block:
+Created by miner # 42
+miner42gets 100 VC 
+Id: 15
+Timestamp: 1623773953735
+Magic number: 160911
+Hash of the previous block:
+A0000144f14be7a33f7a16022f9c8cae8b3dda9151d1e37a3ffbfe38c05b6e6ae
+Hash of the block:
+A0000c427d9ddc3c4964320d61a3fc902b113459bd155f3bd79dd693943703219
+Block data: 
+	Thread-5
+	Thread-5
+gets 100 VC
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-5
+	Thread-6
+	Thread-6
+gets 100 VC
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+	Thread-6
+%Block was generating for 138 seconds
+N was decreased by 1
+
+
